@@ -62,7 +62,6 @@ result = generate_persona(user_profile)
 
 - Python (pandas, NumPy, scikit-learn, Plotly)
 - Jupyter Notebook
-- Claude Code (AI-assisted development)
 
 ## Dataset
 
